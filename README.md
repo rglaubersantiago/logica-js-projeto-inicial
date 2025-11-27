@@ -1,5 +1,1 @@
-# logica-js-projeto-inicial
-# logica-js-projeto-inicial
-# logica-js-projeto-inicial
-# logica-js-projeto-inicial
-# logica-js-projeto-inicial
+# Lógica de programação com JavaScript
